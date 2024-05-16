@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
+      "projectUniqueName": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
       "projectName": "Mamba.Core",
-      "projectPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
+      "projectPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
       "packagesPath": "C:\\Users\\2022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\obj\\",
+      "outputPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2022\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zhUpHD/uM7eAYhvIX+jJkVf4H3Ur+IuJaZPqZMzMbg8A+n3YRuIG4ZvGwE1DkszFabSDUm7hQXu95B0aJ893pA==",
+  "dgSpecHash": "1s9bmi9Qf6Tf0cCtOBAvBMCUgTXc775h+pb7kZnWoimet/cFXjhjepPQfaho2BZggupudEXeN4/qOEOhjTCH1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\NlayerMamba.csproj",
+  "projectFilePath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\NlayerMamba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2022\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\2022\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -38,4 +38,8 @@
     <None Include="Areas\Admin\Views\_ViewStart.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Upload\Team\" />
+  </ItemGroup>
+
 </Project>

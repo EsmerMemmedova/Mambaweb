@@ -9,6 +9,11 @@ namespace Mamba.Business.Exteptions
     public class FileContentTypeExteption:Exception
     {
         public string PropertyName { get; set; }    
-      public FileContentTypeExteption(string? message):base(message) { }
+      public FileContentTypeExteption(string propertyName, string? message):base(message) 
+        {
+            PropertyName = propertyName;
+        
+        
+        }
     }
 }

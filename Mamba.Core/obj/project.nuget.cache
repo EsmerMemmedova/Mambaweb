@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fwiMZa+dsTgURZ91M9sKajxRNqDfwYJPHkQcQwySlq2eJCDaCenfjthC6hETrHdsC10mjzlxxnJN8F1MBMgfSw==",
+  "dgSpecHash": "TDeGo6Mq1SInvOllpei0f8a9qB5MSfxnkB4+q7B0HaNSCLs1h+PC0C7VKtYwbDd/NJjwz9pGEuEtLuLcp5ilkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
+  "projectFilePath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\Mamba.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\2022\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\2022\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",

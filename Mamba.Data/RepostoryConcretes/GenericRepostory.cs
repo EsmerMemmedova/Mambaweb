@@ -24,10 +24,7 @@ namespace Mamba.Data.RepostoryConcretes
            _context.Set<T>().Add(entity);
         }
 
-        public int Count()
-        {
-            throw new NotImplementedException();
-        }
+        
 
         public T Get(Func<T, bool> func = null)
         {

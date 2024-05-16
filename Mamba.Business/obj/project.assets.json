@@ -2821,11 +2821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
+      "projectUniqueName": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
       "projectName": "Mamba.Business",
-      "projectPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
+      "projectPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
       "packagesPath": "C:\\Users\\2022\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\obj\\",
+      "outputPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2842,8 +2842,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Data\\Mamba.Data.csproj": {
-              "projectPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Data\\Mamba.Data.csproj"
+            "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\Mamba.Data.csproj": {
+              "projectPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\Mamba.Data.csproj"
             }
           }
         }

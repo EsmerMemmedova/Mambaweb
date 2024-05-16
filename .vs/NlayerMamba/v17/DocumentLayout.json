@@ -1,82 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\",
+  "WorkspaceRootPath": "C:\\Users\\2022\\Desktop\\NlayerMamba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\views\\dasboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\dasboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\mamba.business\\mamba.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|solutionrelative:mamba.business\\mamba.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\mamba.business\\exteptions\\filecontenttypeexteption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|solutionrelative:mamba.business\\exteptions\\filecontenttypeexteption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\mamba.business\\services\\concretes\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.business\\services\\concretes\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|solutionrelative:mamba.business\\services\\concretes\\teamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\controllers\\dasboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\controllers\\dasboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.business\\mamba.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|solutionrelative:mamba.business\\mamba.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\nlayermamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\mamba.business\\services\\abstracts\\iteamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.business\\services\\abstracts\\iteamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9C170BF-0195-4DFE-BE0C-1388E1BF1C9A}|Mamba.Business\\Mamba.Business.csproj|solutionrelative:mamba.business\\services\\abstracts\\iteamsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.core\\repostoryabstracts\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|solutionrelative:mamba.core\\repostoryabstracts\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|c:\\users\\2022\\desktop\\custom\\webapplication1\\nlayermamba\\mamba.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.data\\repostoryconcretes\\teamsrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|solutionrelative:mamba.data\\repostoryconcretes\\teamsrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.data\\repostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|solutionrelative:mamba.data\\repostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.core\\repostoryabstracts\\iteamsrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|solutionrelative:mamba.core\\repostoryabstracts\\iteamsrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\views\\dasboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\dasboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\controllers\\dasboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\controllers\\dasboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|c:\\users\\2022\\desktop\\nlayermamba\\nlayermamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F41F2A5-494C-4BDF-8E91-81E5222DACC9}|NlayerMamba\\NlayerMamba.csproj|solutionrelative:nlayermamba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AE80E51-C20C-47A0-B411-92B7A9A6A347}|Mamba.Core\\Mamba.Core.csproj|solutionrelative:mamba.core\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|c:\\users\\2022\\desktop\\nlayermamba\\mamba.data\\migrations\\20240515210443_teamstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A19C5A-E21A-41E3-97F4-70ACB6B6F327}|Mamba.Data\\Mamba.Data.csproj|solutionrelative:mamba.data\\migrations\\20240515210443_teamstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,34 +98,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileContentTypeExteption.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Exteptions\\FileContentTypeExteption.cs",
-              "RelativeDocumentMoniker": "Mamba.Business\\Exteptions\\FileContentTypeExteption.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Exteptions\\FileContentTypeExteption.cs",
-              "RelativeToolTip": "Mamba.Business\\Exteptions\\FileContentTypeExteption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T23:58:21.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mamba.Business",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
-              "RelativeDocumentMoniker": "Mamba.Business\\Mamba.Business.csproj",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
-              "RelativeToolTip": "Mamba.Business\\Mamba.Business.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-15T23:56:37.702Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -124,193 +110,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "NlayerMamba\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "NlayerMamba\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T23:53:44.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:33:48.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DasboardController.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\RepostoryConcretes\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "Mamba.Data\\RepostoryConcretes\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\RepostoryConcretes\\GenericRepostory.cs",
+              "RelativeToolTip": "Mamba.Data\\RepostoryConcretes\\GenericRepostory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:33:31.435Z",
+              "WhenOpened": "2024-05-16T06:17:10.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TeamsService.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Services\\Concretes\\TeamsService.cs",
-              "RelativeDocumentMoniker": "Mamba.Business\\Services\\Concretes\\TeamsService.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Services\\Concretes\\TeamsService.cs",
-              "RelativeToolTip": "Mamba.Business\\Services\\Concretes\\TeamsService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAAlAAAA",
+              "Title": "TeamsRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\RepostoryConcretes\\TeamsRepostory.cs",
+              "RelativeDocumentMoniker": "Mamba.Data\\RepostoryConcretes\\TeamsRepostory.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\RepostoryConcretes\\TeamsRepostory.cs",
+              "RelativeToolTip": "Mamba.Data\\RepostoryConcretes\\TeamsRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:18:03.913Z",
+              "WhenOpened": "2024-05-16T06:17:08.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:28:17.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\RepostoryAbstracts\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "Mamba.Core\\RepostoryAbstracts\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\RepostoryAbstracts\\IGenericRepostory.cs",
+              "RelativeToolTip": "Mamba.Core\\RepostoryAbstracts\\IGenericRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T22:27:40.112Z",
+              "WhenOpened": "2024-05-16T06:16:03.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:26:14.703Z",
+              "DocumentIndex": 1,
+              "Title": "Mamba.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
+              "RelativeDocumentMoniker": "Mamba.Business\\Mamba.Business.csproj",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Mamba.Business.csproj",
+              "RelativeToolTip": "Mamba.Business\\Mamba.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T23:56:37.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:26:13.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:23:48.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:23:27.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEUBAAAAAAAAAAAswK8BAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T22:21:57.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\appsettings.json",
-              "RelativeDocumentMoniker": "NlayerMamba\\appsettings.json",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\appsettings.json",
-              "RelativeToolTip": "NlayerMamba\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T22:19:48.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": ".filenesting.json",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\.filenesting.json",
-              "RelativeDocumentMoniker": "NlayerMamba\\.filenesting.json",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\.filenesting.json",
-              "RelativeToolTip": "NlayerMamba\\.filenesting.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T22:19:46.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Program.cs",
-              "RelativeDocumentMoniker": "NlayerMamba\\Program.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\NlayerMamba\\Program.cs",
-              "RelativeToolTip": "NlayerMamba\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:24:01.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "ITeamsService.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
               "RelativeDocumentMoniker": "Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
               "RelativeToolTip": "Mamba.Business\\Services\\Abstracts\\ITeamsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,29 +175,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20240515210443_TeamsTableCreated.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
-              "RelativeDocumentMoniker": "Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
-              "RelativeToolTip": "Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "TeamsService.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Services\\Concretes\\TeamsService.cs",
+              "RelativeDocumentMoniker": "Mamba.Business\\Services\\Concretes\\TeamsService.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Business\\Services\\Concretes\\TeamsService.cs",
+              "RelativeToolTip": "Mamba.Business\\Services\\Concretes\\TeamsService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T21:04:44.396Z",
+              "WhenOpened": "2024-05-15T21:18:03.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITeamsRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\RepostoryAbstracts\\ITeamsRepostory.cs",
+              "RelativeDocumentMoniker": "Mamba.Core\\RepostoryAbstracts\\ITeamsRepostory.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\RepostoryAbstracts\\ITeamsRepostory.cs",
+              "RelativeToolTip": "Mamba.Core\\RepostoryAbstracts\\ITeamsRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:16:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NlayerMamba\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NlayerMamba\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:53:44.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Dasboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:33:48.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DasboardController.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Controllers\\DasboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:33:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Team\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:28:17.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T22:27:40.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:26:14.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:26:13.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:23:48.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:23:27.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NlayerMamba\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUBAAAAAAAAAAAswK8BAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T22:21:57.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\appsettings.json",
+              "RelativeDocumentMoniker": "NlayerMamba\\appsettings.json",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\appsettings.json",
+              "RelativeToolTip": "NlayerMamba\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T22:19:48.726Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 18,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\.filenesting.json",
+              "RelativeDocumentMoniker": "NlayerMamba\\.filenesting.json",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\.filenesting.json",
+              "RelativeToolTip": "NlayerMamba\\.filenesting.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T22:19:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Program.cs",
+              "RelativeDocumentMoniker": "NlayerMamba\\Program.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\NlayerMamba\\Program.cs",
+              "RelativeToolTip": "NlayerMamba\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:24:01.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240515210443_TeamsTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
+              "RelativeDocumentMoniker": "Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
+              "RelativeToolTip": "Mamba.Data\\Migrations\\20240515210443_TeamsTableCreated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:04:44.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Team.cs",
-              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Models\\Team.cs",
+              "DocumentMoniker": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Mamba.Core\\Models\\Team.cs",
-              "ToolTip": "C:\\Users\\2022\\Desktop\\custom\\WebApplication1\\NlayerMamba\\Mamba.Core\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\2022\\Desktop\\NlayerMamba\\Mamba.Core\\Models\\Team.cs",
               "RelativeToolTip": "Mamba.Core\\Models\\Team.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T20:46:23.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T20:46:23.644Z"
             }
           ]
         }

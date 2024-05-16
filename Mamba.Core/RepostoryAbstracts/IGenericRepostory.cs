@@ -13,7 +13,7 @@ namespace Mamba.Core.RepostoryAbstracts
         void Remove(T entity);
         T Get(Func<T,bool>func=null);
         List<T> GetAll(Func<T, bool> func = null);
-        int Count();
+        int Commit();
 
     }
 }
